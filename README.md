@@ -4,4 +4,7 @@ In the excel file "Shiny Prompt Documentation.xlsx" you find an overview of all 
 
 Not all Shiny Apps work. Some have errors, which were not corrected as the development process of a non-programmers should be comprehensible.
 
-In the excel file "
+The csv file "berlin_weekdays.csv" contains all the original dataset that was used for the case study in a reduced scope but is not of further importance.
+
+The csv file "berlin_weekdays_subset.csv" contains the reduced dataset.
+The csv file "prediction_rows.csv" contains the row that were used for the predictions in the case study.
