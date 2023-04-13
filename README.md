@@ -5,6 +5,7 @@ In the excel file "Shiny Prompt Documentation.xlsx" you find an overview of all 
 Not all Shiny Apps work. Some have errors, which were not corrected as the development process of a non-programmers should be comprehensible.
 
 The csv file "berlin_weekdays.csv" contains all the original dataset that was used for the case study in a reduced scope but is not of further importance.
+The original source is: Gyódi, K., & Nawaro, Ł. (2021). Determinants of Airbnb prices in European cities: A spa-tial econometrics approach. Tourism Management, 86, 104319. https://doi.org/10.1016/j.tourman.2021.104319
 
 The csv file "berlin_weekdays_subset.csv" contains the reduced dataset.
 The csv file "prediction_rows.csv" contains the row that were used for the predictions in the case study.
