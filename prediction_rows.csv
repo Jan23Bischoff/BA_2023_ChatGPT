@@ -1,0 +1,11 @@
+room_type,person_capacity,host_is_superhost,cleanliness_rating,guest_satisfaction_overall,dist
+Private room,2,TRUE,10,98,3.582210844251585
+Private room,5,FALSE,9,86,3.5254103004986552
+Private room,2,FALSE,9,91,3.801712817590346
+Private room,3,TRUE,10,97,0.9824081724298934
+Private room,2,FALSE,10,99,8.869697201153345
+Private room,2,FALSE,8,87,3.544664561505696
+Entire home/apt,6,TRUE,10,97,3.838823653766812
+Private room,2,TRUE,10,96,3.7314525410538897
+Private room,2,TRUE,10,100,9.113951206307854
+Entire home/apt,3,TRUE,10,98,13.62054945396812
