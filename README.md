@@ -6,6 +6,8 @@ Not all Shiny Apps work. Some have errors, which were not corrected as the devel
 
 An example for a Shiny application that properly works and satisfies all the requirements specified in the thesis can be found in the file "DSS Proper Solution.R".
 
+In the file "Prompt Analysis.R" I analyzed the prompts that are documented in the file "Shiny Prompt Documentation.xlsx". To run this R file, one must have the excel file and the R script in the same folder or adapt the source link accordingly at the top of the script.
+
 The csv file "berlin_weekdays.csv" contains all the original dataset that was used for the case study in a reduced scope but is not of further importance.
 The original source is: Gyódi, K., & Nawaro, Ł. (2021). Determinants of Airbnb prices in European cities: A spa-tial econometrics approach. Tourism Management, 86, 104319. https://doi.org/10.1016/j.tourman.2021.104319
 
